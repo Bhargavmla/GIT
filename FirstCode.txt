@@ -1,1 +1,3 @@
 hello Bhargav Nagabhyru !!
+take input fromuser
+add values
