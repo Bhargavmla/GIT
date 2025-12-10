@@ -2,3 +2,4 @@ hello Bhargav Nagabhyru !!
 take input fromuser
 add values
 submit data to database
+create an avathar for user
